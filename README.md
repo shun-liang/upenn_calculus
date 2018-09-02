@@ -1,4 +1,7 @@
 # Upenn Calculus
+
+View the notebook viewer at http://nbviewer.jupyter.org/github/shun-liang/upenn_calculus/tree/master/
+
 This repository is my personal notes of the Coursera MOOC [_Calculus: Single Variable Part 1 - Functions_](https://www.coursera.org/learn/single-variable-calculus).
 
 Notes are written in Jupyter Notebooks with SymPy, LaTeX and some Python scripts.
