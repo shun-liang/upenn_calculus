@@ -1,6 +1,6 @@
 # Upenn Calculus
 
-Please DO NOT look at any content in `*\homework\*` if you are currently doing this course, or have intention doing this course in the future.
+Please DO NOT look at any content in `*/homework/*` if you are currently doing this course, or have intention doing this course in the future.
 
 View the notebook viewer at http://nbviewer.jupyter.org/github/shun-liang/upenn_calculus/tree/master/
 
